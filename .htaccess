@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+DirectoryIndex index.php index.html index2.html
+
+
+ErrorDocument 400 http://agario.ooo/404.php
+
+ErrorDocument 401 http://agario.ooo/404.php
+
+ErrorDocument 403 http://agario.ooo/404.php
+
+ErrorDocument 404 http://agario.ooo/404.php
+
+ErrorDocument 500 http://agario.ooo/404.php
+
+ErrorDocument 503 http://agario.ooo/404.php
+
